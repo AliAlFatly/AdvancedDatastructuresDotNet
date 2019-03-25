@@ -1,0 +1,11 @@
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\obj\Debug\netcoreapp2.1\Desktop.csprojAssemblyReference.cache
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\obj\Debug\netcoreapp2.1\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\obj\Debug\netcoreapp2.1\Desktop.AssemblyInfoInputs.cache
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\obj\Debug\netcoreapp2.1\Desktop.AssemblyInfo.cs
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\bin\Debug\netcoreapp2.1\Desktop.deps.json
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\bin\Debug\netcoreapp2.1\Desktop.runtimeconfig.json
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\bin\Debug\netcoreapp2.1\Desktop.runtimeconfig.dev.json
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\bin\Debug\netcoreapp2.1\Desktop.dll
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\bin\Debug\netcoreapp2.1\Desktop.pdb
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\obj\Debug\netcoreapp2.1\Desktop.dll
+C:\Users\aeazh_000\Desktop\6a\6Complete\List_Array_quee_Stack\obj\Debug\netcoreapp2.1\Desktop.pdb
